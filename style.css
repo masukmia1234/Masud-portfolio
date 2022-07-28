@@ -1,0 +1,38 @@
+
+/*==========================================================
+    Template Name: Masud-Personal Portfolio
+    Created By: Masuk Mia
+    Envato Profile: masukmia1234
+    Website:masukmia.com
+    Description:Masud is Fully Responsive Personal Portfolio Template with awesome features.
+    Version:v1.1.0
+    Support: masukmia
+============================================================*/
+
+/*===========================================================
+    CSS INDEX
+    ===================
+	
+	[ 1. General Code ]
+	[ 2. Typography ]
+	[ 3. Global Classes ]
+	[ 4. Home Version's ]
+	[ 5. Pages ]
+	[ 6. Loding Bar ]
+	[ 7. ScrollUp ]
+==============================================================*/
+
+/* 
+[ 1. General Code ]
+================ */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400');
+
+/* css files
+====================== */
+@import url('assets/css/bootstrap.min.css');
+@import url('assets/css/material-design-iconic-font.min.css');
+@import url('assets/css/slick.min.css');
+@import url('assets/css/jquery.fancybox.css');
+@import url('assets/css/style.css');
+@import url('assets/css/responsive.css');
